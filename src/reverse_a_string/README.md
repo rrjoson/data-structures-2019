@@ -15,7 +15,9 @@ function reverse(str) {
 
 #### Analysis:
 
-| Time Complexity | O(n) |
+|                  |      |
+| ---------------- | ---- |
+| Time Complexity  | O(n) |
 | Space Complexity | 0(n) |
-| Pros | - |
-| Cons | - |
+| Pros             |      |
+| Cons             |      |
