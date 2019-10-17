@@ -1,5 +1,6 @@
 |        |              |
 | ------ | ------------ |
+| Search | O(n)         |
 | Lookup | O(1)         |
 | Append | O(1) or O(N) |
 | Insert | O(N)         |
